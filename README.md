@@ -7,11 +7,9 @@ A simple flutter application that is used for Battery Monitoring
 - Battery Level History With Graph
 - Charge/Discharge rate
 
-
-
 Installation
 ```bash
-git clone https://github.com/yourusername/yourrepo.git
-cd yourrepo
+git clone https://github.com/Tanmay2504/Battery-Monitor.git
+cd Battery-Monitor
 flutter pub get
 flutter run
